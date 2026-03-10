@@ -41,8 +41,8 @@ Explore the chapters below in sequence for the best learning experience:
 8.  **[Chapter 8: Sample Implementation – Simple LLM API Call](./chapters/08_api_implementation.md)**
     *   Putting it all together: A production-ready Python SDK sample.
 
-9.  **[Module 5: Prompt Engineering, Testing & Responsible AI](./module5_prompt_engineering_safety.md)**
-    *   Prompt patterns (CoT, Few-Shot), Versioning, and Safety Guardrails.
+9.  **[Module 5: Prompt Engineering, Testing & Responsible AI](./promptengg.md)**
+    *   Prompt patterns, Versioning, and Safety Guardrails.
 
 ---
 
