@@ -44,6 +44,9 @@ Explore the chapters below in sequence for the best learning experience:
 9.  **[Module 5: Prompt Engineering, Testing & Responsible AI](./promptengg.md)**
     *   Prompt patterns, Versioning, and Safety Guardrails.
 
+10. **[Module 6: Embeddings & Vector Databases](./vectordb.md)**
+    *   Similarity Search, Vector DBs (Pinecone, FAISS), Chunking, and Data Security.
+
 ---
 
 ## **🛠️ How to Use This Guide**
