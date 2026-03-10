@@ -47,6 +47,9 @@ Explore the chapters below in sequence for the best learning experience:
 10. **[Module 6: Embeddings & Vector Databases](./vectordb.md)**
     *   Similarity Search, Vector DBs (Pinecone, FAISS), Chunking, and Data Security.
 
+11. **[Module 7: Agent Architectures & Tool Calling](./agents.md)**
+    *   ReAct Pattern, Frameworks (LangGraph, CrewAI), and Multi-Agent Systems.
+
 ---
 
 ## **🛠️ How to Use This Guide**
