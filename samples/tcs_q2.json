@@ -1,0 +1,28 @@
+{
+  "company": "Tata Consultancy Services (TCS)",
+  "quarter": "Q2",
+  "financial_year": "2024-25",
+  "period_ending": "September 30, 2024",
+  "revenue": {
+    "value": 64259,
+    "currency": "INR Crore",
+    "growth_yoy": 7.6
+  },
+  "net_profit": {
+    "value": 11909,
+    "currency": "INR Crore",
+    "growth_yoy": 5.0
+  },
+  "operating_margin": 24.1,
+  "total_contract_value_tcv": {
+    "value": 8.6,
+    "currency": "USD Billion"
+  },
+  "headcount_addition": 5762,
+  "key_highlights": [
+    "BFSI sector showed signs of recovery",
+    "Growth Markets showed strong performance",
+    "Energy, Resources and Utilities led growth at 7.0%",
+    "Operating margin maintained at 24.1%"
+  ]
+}
