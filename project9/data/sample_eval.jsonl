@@ -1,0 +1,3 @@
+{"instruction":"Classify headline sentiment with one-line rationale","input":"Tata Motors raises EV capex amid strong demand","output":"Positive"}
+{"instruction":"Classify headline sentiment with one-line rationale","input":"Wipro sees margin pressure due to wage hikes","output":"Negative"}
+{"instruction":"Classify headline sentiment with one-line rationale","input":"ITC maintains dividend; FMCG growth steady","output":"Neutral"}

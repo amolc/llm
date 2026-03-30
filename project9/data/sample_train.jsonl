@@ -1,0 +1,5 @@
+{"instruction":"Classify headline sentiment with one-line rationale","input":"TCS beats estimates; FY guidance raised","output":"Positive | Guidance raised and estimates beat indicate strength"}
+{"instruction":"Classify headline sentiment with one-line rationale","input":"Infosys warns of near-term demand softness in BFSI","output":"Negative | Demand softness in key vertical likely to weigh on revenue"}
+{"instruction":"Classify headline sentiment with one-line rationale","input":"HDFC Bank reports stable NIM; asset quality steady","output":"Neutral | Metrics stable without strong growth or deterioration"}
+{"instruction":"Classify headline sentiment with one-line rationale","input":"Reliance Industries announces record quarterly profit","output":"Positive | Record profit signals strong operating performance"}
+{"instruction":"Classify headline sentiment with one-line rationale","input":"Maruti cuts production due to supply constraints","output":"Negative | Production cut suggests near-term headwinds"}
